@@ -1,0 +1,12 @@
+{
+  "name": "shift-management-bot",
+  "version": "1.0.0",
+  "description": "Simple shift management bot without forms",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
