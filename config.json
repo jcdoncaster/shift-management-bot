@@ -1,0 +1,10 @@
+{
+  "discord": {
+    "token": "MTQzNDA3MjE0MjUwNDI2Mzc2Mw.GSoDyV.d6RoNgeYkZYnUtfhLjQkd1psFDIN0Cek44yMLM",
+    "guildId": "1428785831287586869"
+  },
+  "settings": {
+    "autoSaveInterval": 300000,
+    "announcementChannel": "general"
+  }
+}
